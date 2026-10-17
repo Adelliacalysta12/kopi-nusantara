@@ -11,3 +11,4 @@ Repositori ini dibuat untuk mempelajari dasar-dasar Git.
 ## Tujuan
 
 Memahami cara membuat repositori, mengubah file, dan menyimpan perubahan menggunakan Git.
+Saya sedang mempelajari Git Diff sesuai tutorial PetaniKode.
