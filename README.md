@@ -1,13 +1,2 @@
-# Belajar Git
-
-Repositori ini dibuat untuk mempelajari dasar-dasar Git.
-
-## Daftar File
-
-- `index.html`: Halaman utama.
-- `about.html`: Halaman tentang saya.
-- `contact.html`: Halaman kontak.
-
-## Tujuan
-
-Memahami cara membuat repositori, mengubah file, dan menyimpan perubahan menggunakan Git.
+# Kopi Nusantara
+Proyek website profil kedai Kopi Nusantara milik Adellia Calysta Elfirza
